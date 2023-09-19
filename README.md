@@ -5,7 +5,7 @@
 
 🔍 Explore My Portfolio:
 ---------------------------------------------------------
-📌**Project 1: Grouping Spotify genres into similar clusters.** 
+📌(**Project 1: Grouping Spotify genres into similar clusters.**)(https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Clustering_Spotify_Genres.ipynb) 
 
 • Conducted exploratory data analysis to understand the distribution and characteristics of the music data.
 
