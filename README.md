@@ -5,14 +5,14 @@
 
 🔍 Explore My Portfolio:
 ---------------------------------------------------------
-📌 # Project 1: Grouping Spotify genres into similar clusters. 
+📌**Project 1: Grouping Spotify genres into similar clusters.** 
 
 • Conducted exploratory data analysis to understand the distribution and characteristics of the music data.
 
 • Visualized data using plots and charts to gain insights into genre patterns.
 
 • Applied the K-means clustering algorithm to group Spotify genres into similar 
-clusters based on simplified music features. 
+clusters based on simplified music features.
 
 • The objective was to uncover patterns and similarities between different music 
 genres and gain insights into the musical characteristics shared within each cluster
