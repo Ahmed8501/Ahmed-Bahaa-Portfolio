@@ -44,6 +44,7 @@ loss.
 
 • Evaluated the model performance using metrics like R-Squared (R^2) and Root Mean Squared Error (RMSE).
 
+![](https://github.com/Ahmed8501/Data_Science_Portfolio/blob/main/Regression.jpg)
 
 📬 **Connect with Me:**
 - [Provide links to your LinkedIn, Twitter, or other professional profiles.]
