@@ -47,7 +47,7 @@ loss.
 ![](/Regression.jpg)
 
 📬 **Connect with Me:**
-- [Provide links to your LinkedIn, Twitter, or other professional profiles.]
+- <a href="https://www.linkedin.com/in/ahmed-bahaa-873002222/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 
 💬 **Let's Collaborate:**
 [Encourage collaboration or contributions to your projects if you are open to it.]
