@@ -17,6 +17,7 @@ clusters based on simplified music features.
 • The objective was to uncover patterns and similarities between different music 
 genres and gain insights into the musical characteristics shared within each cluster
 
+![](https://github.com/Ahmed8501/Data_Science_Portfolio/blob/main/Spotify%20Genres.jpg)
 
 # [Project 2: Decision tree classifier predicting customer churn](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Classification_Customer_churn.ipynb)
 
@@ -30,6 +31,8 @@ customer churn in the telecommunication industry.
 • The objective was to assist businesses in the telecommunication industry to 
 identify customers who are most likely to churn to help in minimizing revenue 
 loss.
+
+![](https://github.com/Ahmed8501/Data_Science_Portfolio/blob/main/Customer%20Churn.jpg)
 
 # [Project 3: Linear regression model estimating used cars’ selling price](https://github.com/Ahmed8501/Data-Science-Projects/blob/main/Linear%20Regression.ipynb)
 
