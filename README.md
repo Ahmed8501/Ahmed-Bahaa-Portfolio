@@ -47,12 +47,9 @@ loss.
 ![](/Regression.jpg)
 
 📬 **Connect with Me:**
-- <a href="https://www.linkedin.com/in/ahmed-bahaa-873002222/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-bahaa-873002222/)
 
-💬 **Let's Collaborate:**
-[Encourage collaboration or contributions to your projects if you are open to it.]
 
-🙌 Thanks for visiting my portfolio. If you have any questions or would like to discuss potential opportunities, please feel free to reach out. I'm excited to connect and explore data-driven solutions together!
 
 
 
