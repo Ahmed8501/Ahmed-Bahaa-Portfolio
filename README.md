@@ -1,7 +1,7 @@
 
 📊 Welcome to my Data Science Portfolio 📈
 
-👋 Hi there! I'm Ahmed Bahaa. Welcome to my GitHub portfolio, where I showcase my data-driven projects and demonstrate my skills in solving real-world problems using data.
+👋 Hi there! I'm Ahmed Bahaa, a hard-working and passionate Data Scientist. Here, you'll find a collection of my data-driven projects that tell stories, answer questions, and uncover patterns.
 
 🔍 Explore My Portfolio:
 ---------------------------------------------------------
